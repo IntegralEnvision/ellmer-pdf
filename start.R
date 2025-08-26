@@ -1,3 +1,4 @@
+# Source: https://github.com/tidyverse/ellmer/pull/265
 library(ellmer)
 
 pdf <- content_pdf_url(
